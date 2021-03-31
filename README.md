@@ -1,7 +1,7 @@
 <div class="content">
     <h1>About</h1>
     <p><a href="https://top.gg/bot/801805025424179230">
-    <img src="https://top.gg/api/widget/801805025424179230.svg" alt="Redditcord" /></p>
+    <img src="https://top.gg/api/widget/801805025424179230.svg" alt="Redditcord" /></a></p>
     <p>Redditcord is mainly a reddit bot which supports subreddit feed, subreddit & user info, random memes and more...</p>
     <ul>
         <li>Subscribe subreddits up to 20* subreddits!</li>
